@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "e2d2a59a-f4dd-4dce-a39a-7de48cbd2001",
+  "content-length": "161",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "cartoon character holding a paper",
+    "confidence": 0.6483651995658875
+  },
+  "metadata": {
+    "width": 1200,
+    "height": 700
+  }
+}
